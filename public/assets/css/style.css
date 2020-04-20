@@ -1,0 +1,25 @@
+body, .container-fluid {
+    background: rgb(108,251,63);
+    background: radial-gradient(circle, rgba(108,251,63,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.display-4 {
+    margin: 2%;
+    text-shadow: 3px 3px coral;
+}
+
+.img-fluid {
+    border: solid 7px coral;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px #403c3c;
+}
+
+.add-burger {
+    border: solid 2px #47b51f;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px #403c3c;
+}
+
+.card {
+    box-shadow: 7px 7px 7px #403c3c;
+}
